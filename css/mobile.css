@@ -1,0 +1,24 @@
+@media screen and (max-width: 600px) {
+header {
+    text-align: center;
+}
+.join{
+    float: none;
+    margin: 10px;
+}
+
+  .homeheader h3{
+    width: 300px;
+    margin:auto;
+    text-align: center;
+  }
+
+.homeheader{
+    height: 500px;
+}
+
+.btnjoin{
+    display:block;
+  
+  }
+}
